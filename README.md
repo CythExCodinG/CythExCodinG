@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **on improving my skills in Java lang and full stack developement**
 
-- 🌱 I’m currently learning **Java Python Html Css Javascript**
+- 🌱 I’m currently learning **Java Python Javascript**
 
 - 💬 Ask me about **Java**
 
