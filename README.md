@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Dnyandeo Bhalekar</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
-<img align="right" width=400 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cythexcoding&label=Profile%20views&color=0e75b6&style=flat" alt="cythexcoding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cythexcoding" alt="cythexcoding" /></a> </p>
@@ -16,7 +15,9 @@
 - 📫 How to reach me **cytherohit01@gmail.com**
 
 - ⚡ Fun fact **I think I am better roaster**
-
+  <br>
+<img align="center" width=400 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@_rohit_bhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_rohit_bhalekar" height="30" width="40" /></a>
