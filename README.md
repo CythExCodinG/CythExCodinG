@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[cover-thompson.png](https://github.com/Babasaheb-Bhalekar/CodeWithBablu/blob/main/cover-thompson.png?raw=true)" alt="cover image">
+  <img src="https://github.com/Babasaheb-Bhalekar/CodeWithBablu/blob/main/cover-thompson.png?raw=true" alt="cover image">
 </p>
 
 <h1 align="center">👋 Hey there, I'm Rohit Bhalekar!</h1>
