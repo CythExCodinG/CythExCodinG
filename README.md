@@ -1,32 +1,80 @@
-<h1 align="center">Hi 👋, I'm Rohit Dnyandeo Bhalekar</h1>
-<h3 align="center">A passionate coding enthusiast from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cythexcoding&label=Profile%20views&color=0e75b6&style=flat" alt="cythexcoding" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cythexcoding" alt="cythexcoding" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@_rohit_bhalekar" target="blank"><img src="https://img.shields.io/twitter/follow/@_rohit_bhalekar?logo=twitter&style=for-the-badge" alt="@_rohit_bhalekar" /></a> </p>
-
-- 🔭 I’m currently working on **on improving my skills in Java lang and full stack developement**
-
-- 🌱 I’m currently learning **Java Python Javascript**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **cytherohit01@gmail.com**
-
-- ⚡ Fun fact **I think I am better roaster**
-  <br>
-<img align="center" width=400 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@_rohit_bhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_rohit_bhalekar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit bhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit bhalekar" height="30" width="40" /></a>
+<p align="center">
+  <img src="cover-thompson.png" alt="cover image">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hey there, I'm Rohit Bhalekar!</h1>
+<h3 align="center">🚀 Tech Enthusiast | Problem Solver</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cythexcoding&show_icons=true&locale=en&layout=compact" alt="cythexcoding" /></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=CodeWithBablu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/CodeWithBablu?style=social" />
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/CodeWithBablu?style=social" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cythexcoding&show_icons=true&locale=en" alt="cythexcoding" /></p>
+---
+
+### 🌟 **"Confusion is part of Programming"**
+
+---
+
+### 👨🏻‍💻 **About Me**
+- 🔭 Currently working on **Next.js**  
+- ☁️ Enthusiastic about fullstack development  
+- 💬 Ask me about **Node.js, Express.js, MongoDB, Java**  
+- 📫 Reach me at **[cytherohit01@gmail.com](mailto:cytherohit01@gmail.com)**  
+- ⚡ Fun fact: I guess **i am a better roaster**
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeWithBablu&theme=radical&show_icons=true&count_private=true" />
+  <br />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithBablu&theme=radical&hide_border=true" />
+  <br />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CodeWithBablu&theme=radical&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+### 🛠 **Technologies I Work With**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,java,js,linux,md,mysql,nodejs,react,tailwind,vscode&perline=14" />
+  </a>
+</p>
+
+---
+
+### 🎓 **Certifications**
+
+---
+
+### 🤝 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-bhalekar-2245672a7/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:cytherohit01@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/cytherohit01/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 **Portfolio**
+🌐 **[Visit My Portfolio](#)** _(Coming Soon)_
+
+---
+
+### ⚡ **Hobbies & Interests**
+- 🎨 UI/UX Design  
+- 🎯 Competitive Programming  
+- 🎮 Gaming during breaks  
+
+---
+
+### 🚀 **Profile Highlights**
+- 🔍 Regularly explores **emerging technologies** like AI-powered development tools.  
+- 💡 Active learner in **DSA**.  
+
+---
+
+![divider](https://github.com/user-attachments/assets/d2f27e66-651a-4e22-8d84-62984d071523)
