@@ -18,7 +18,7 @@
 ---
 
 ### 👨🏻‍💻 **About Me**
-- 🔭 Currently working on **Next.js**  
+- 🔭 Currently working on **Node.js**  
 - ☁️ Enthusiastic about fullstack development  
 - 💬 Ask me about **Node.js, Express.js, MongoDB, Java**  
 - 📫 Reach me at **[cytherohit01@gmail.com](mailto:cytherohit01@gmail.com)**  
