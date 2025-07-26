@@ -14,6 +14,7 @@
 ---
 
 ### 🌟 **"Confusion is part of Programming"**
+  <img alt="GitHub stars" src="[![trophy](https://github-profile-trophy.vercel.app/CythExCodinG=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" />
 
 ---
 
