@@ -28,11 +28,11 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeWithBablu&theme=radical&show_icons=true&count_private=true" />
+  <img align="center" src="![CythExCodinG's Stats](https://github-readme-stats.vercel.app/api?username=CythExCodinG&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)" />
   <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithBablu&theme=radical&hide_border=true" />
+  <img align="center" src="![CythExCodinG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CythExCodinG&theme=gruvbox&hide_border=false)" />
   <br />
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CodeWithBablu&theme=radical&hide_border=true&langs_count=6" />
+  <img align="center" src="![CythExCodinG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CythExCodinG&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)" />
 </p>
 
 ---
