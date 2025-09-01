@@ -62,7 +62,7 @@
 ---
 
 ### 🚀 **Portfolio**
-🌐 **[Visit My Portfolio](#)** _(Coming Soon)_
+🌐 <a href="https://portfolio-nine-sand-99.vercel.app/"/>Visit my portfolio</a>
 
 ---
 
