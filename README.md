@@ -67,8 +67,7 @@
 ---
 
 ### ⚡ **Hobbies & Interests**
-- 🎨 UI/UX Design  
-- 🎯 Competitive Programming  
+- 🎨 UI/UX Design    
 - 🎮 Gaming during breaks  
 
 ---
