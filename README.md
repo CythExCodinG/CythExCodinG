@@ -7,7 +7,7 @@
 <h3 align="center">👋 Portfolio :[https://portfolio-nine-sand-99.vercel.app/]</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=CodeWithBablu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CytheExCodinG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/CodeWithBablu?style=social" />
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/CodeWithBablu?style=social" />
 </p>
