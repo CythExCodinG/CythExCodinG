@@ -29,10 +29,9 @@
 ---
 
 ### 📊 **GitHub Stats**
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CythExCodinG&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CythExCodinG?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
   <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CythExCodinG&theme=gruvbox&hide_border=false" />
+  
   <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CythExCodinG&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" />
 </p>
