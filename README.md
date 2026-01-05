@@ -47,6 +47,7 @@
 ---
 
 ### 🎓 **Certifications**
+[![GeeksforGeeks Certificate](https://img.shields.io/badge/GeeksforGeeks-Certificate-brightgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/certificate/cd7ace3e2ae1640d80db693abc214171)
 
 ---
 
