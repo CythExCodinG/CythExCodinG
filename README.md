@@ -53,9 +53,8 @@
 
 ### 🤝 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-bhalekar-2245672a7/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohit-db/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:cytherohit01@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/cytherohit01/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
