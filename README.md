@@ -15,7 +15,7 @@
 ---
 
 ### 🌟 **"Confusion is part of Programming"**
-[![trophy](https://github-profile-trophy.vercel.app/?username=CythexCodinG)
+[![trophy](https://github-profile-trophy.vercel.app/?CythExCodinG=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
