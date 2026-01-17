@@ -2,7 +2,7 @@
   <img src="https://github.com/Babasaheb-Bhalekar/CodeWithBablu/blob/main/cover-thompson.png?raw=true" alt="cover image">
 </p>
 <p align="center">
-![Snake animation](https://raw.githubusercontent.com/CythExCoding/CythExCoding/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/CythExCoding/CythExCoding/output/github-contribution-grid-snake-dark.svg" alt="cover image">
 </p>
 <br/>
 <h1 align="center">👋 Hey there, I'm Rohit Bhalekar!</h1>
