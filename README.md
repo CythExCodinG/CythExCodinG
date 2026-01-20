@@ -20,7 +20,7 @@
 ### 🌟 **"Confusion is part of Programming"**
 <div align="center">
 
-![](https://github-trophies.vercel.app/?username=CythExCodinG)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CythExCodinG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
