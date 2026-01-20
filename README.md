@@ -75,6 +75,7 @@
 🌐 <a href="https://github-trophies.vercel.app/?username=CythExCodinG"/>Visit my portfolio</a>
 
 ---
+</br>
 
 ### ⚡ **Hobbies & Interests**
 - 🎨 UI/UX Design    
