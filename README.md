@@ -49,6 +49,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,java,js,linux,md,mysql,nodejs,react,tailwind,vscode&perline=14" />
   </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 </p>
 
 ---
