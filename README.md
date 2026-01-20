@@ -18,7 +18,11 @@
 ---
 
 ### 🌟 **"Confusion is part of Programming"**
+<div align="center">
+
 ![](https://github-trophies.vercel.app/?username=CythExCodinG)
+
+</div>
 
 ---
 
