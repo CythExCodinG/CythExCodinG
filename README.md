@@ -20,7 +20,7 @@
 ### 🌟 **"Confusion is part of Programming"**
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CythExCodinG&theme=onedark)](https://github.com/CythExCodinG/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=CythExCodinG)](https://github.com/CythExCodinG/github-profile-trophy)
 
 </div>
 
@@ -72,7 +72,7 @@
 ---
 
 ### 🚀 **Portfolio**
-🌐 <a href="https://github-trophies.vercel.app/?username=CythExCodinG"/>Visit my portfolio</a>
+🌐 <a href="https://portfoliogsap-fawn.vercel.app/"/>Visit my portfolio</a>
 
 ---
 </br>
